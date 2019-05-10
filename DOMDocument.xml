@@ -1,0 +1,1271 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="960" height="640" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 405" majorVersion="19" minorVersion="2" buildNumber="405" timelineLabelWidth="204" viewAngle3D="84.5182101128788" vanishingPoint3DX="480" vanishingPoint3DY="320" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="6457A144FDFBB44F8D17A0B8E6BFA954">
+     <folders>
+          <DOMFolderItem name="רקע" itemID="5cbf0c03-00000058" isExpanded="true"/>
+          <DOMFolderItem name="איש_מעשן" itemID="5cbf0bf9-00000054" isExpanded="true"/>
+          <DOMFolderItem name="אישה עם שקית" itemID="5cbf0a77-00000014" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMSoundItem name="26 באפר׳, 17.22(2).mp3" itemID="5cc31574-000000d0" sourceLastImported="1556288669" href="26 באפר׳&amp;#044 17.22(2).mp3" soundDataHRef="M 6 1556288700.dat" format="44kHz 16bit Stereo" sampleCount="1075968" exportFormat="1" exportBits="7" dataLength="286547" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="134496"/>
+          <DOMSoundItem name="איש_מעשן/26 באפר׳, 17.22.mp3" itemID="5cc31574-000000d1" sourceLastImported="1556288668" href="איש_מעשן/26 באפר׳&amp;#044 17.22.mp3" soundDataHRef="M 5 1556288695.dat" format="44kHz 16bit Stereo" sampleCount="840960" exportFormat="1" exportBits="7" dataLength="219052" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="105120"/>
+          <DOMBitmapItem name="Bitmap 1" itemID="5cc2ff7c-00000350" sourceLastImported="1556283260" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1.png" bitmapDataHRef="M 1 1556283260.dat" frameRight="2860" frameBottom="1860"/>
+          <DOMSoundItem name="large_trash_bag-mike-koenig (mp3cut.net).wav" itemID="5cc6ad28-00000134" sourceLastImported="1556452036" href="large_trash_bag-mike-koenig (mp3cut.net).wav" soundDataHRef="M 10 1556452215.dat" format="44kHz 16bit Stereo" sampleCount="233730" dataLength="934920"/>
+          <DOMSoundItem name="רקע/שאיפת עשן.mp3" itemID="5cc313a8-000000b0" sourceLastImported="1556287835" href="רקע/שאיפת עשן.mp3" soundDataHRef="M 4 1556288424.dat" format="44kHz 16bit Stereo" sampleCount="251136" exportFormat="1" exportBits="7" dataLength="61888" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="31392"/>
+     </media>
+     <symbols>
+          <Include href="&amp;#063.xml" itemIcon="1" loadImmediate="false" itemID="5cc3038d-0000038f" lastModified="1556284302"/>
+          <Include href="lsd_1.xml" itemIcon="3" itemID="5cbdf677-00000026" lastModified="1555953271"/>
+          <Include href="lsd_2.xml" itemIcon="3" itemID="5cbdf9c4-00000055" lastModified="1555954116"/>
+          <Include href="lsd_3.xml" itemIcon="3" itemID="5cbf0ee9-000000ad" lastModified="1556025065"/>
+          <Include href="lsd_3 copy.xml" itemIcon="3" itemID="5cbdfbe6-00000097" lastModified="1555954662"/>
+          <Include href="lsd_4.xml" itemIcon="3" itemID="5cbf15d1-000001eb" lastModified="1556026833"/>
+          <Include href="lsd_4 copy.xml" itemIcon="3" itemID="5cbf163a-000001f4" lastModified="1556026938"/>
+          <Include href="lsd_4 copy 2.xml" itemIcon="3" itemID="5cbf163a-000001f8" lastModified="1556026938"/>
+          <Include href="lsd_4 copy 3.xml" itemIcon="3" itemID="5cbf16b9-00000200" lastModified="1556027065"/>
+          <Include href="lsd_4 copy 4.xml" itemIcon="3" itemID="5cbf1714-0000020b" lastModified="1556027156"/>
+          <Include href="lsd_4 copy 5.xml" itemIcon="3" itemID="5cbf1733-00000212" lastModified="1556027187"/>
+          <Include href="lsd_4 copy 6.xml" itemIcon="3" itemID="5cbf1744-0000021d" lastModified="1556027204"/>
+          <Include href="lsd_4 copy 7.xml" itemIcon="3" itemID="5cbf1c18-0000040d" lastModified="1556028440"/>
+          <Include href="lsd_4 copy 8.xml" itemIcon="3" itemID="5cbf1da1-00000432" lastModified="1556028833"/>
+          <Include href="lsd_4 copy 9.xml" itemIcon="3" itemID="5cbf1c1b-00000418" lastModified="1556028443"/>
+          <Include href="lsd_4 copy 10.xml" itemIcon="3" itemID="5cbf22f3-00000470" lastModified="1556030195"/>
+          <Include href="lsd_4 copy 11.xml" itemIcon="3" itemID="5cbf2311-0000047e" lastModified="1556030225"/>
+          <Include href="lsd_4 copy 12.xml" itemIcon="3" itemID="5cbf23a8-00000489" lastModified="1556030376"/>
+          <Include href="lsd_5.xml" itemIcon="3" itemID="5cbf2efe-00000570" lastModified="1556033278"/>
+          <Include href="lsd_5 copy.xml" itemIcon="3" itemID="5cbf2f31-00000579" lastModified="1556033329"/>
+          <Include href="lsd_5 copy 2.xml" itemIcon="3" itemID="5cbf2f31-0000057d" lastModified="1556033329"/>
+          <Include href="lsd_5 copy 3.xml" itemIcon="3" itemID="5cbf2fab-00000584" lastModified="1556033451"/>
+          <Include href="lsd_5 copy 4.xml" itemIcon="3" itemID="5cbf3309-000005d3" lastModified="1556034313"/>
+          <Include href="lsd_5 copy 5.xml" itemIcon="3" itemID="5cbf3317-000005de" lastModified="1556034327"/>
+          <Include href="lsd_6.xml" itemIcon="3" itemID="5cbf3140-000005a9" lastModified="1556033856"/>
+          <Include href="lsd_7.xml" itemIcon="3" itemID="5cbf31dc-000005b2" lastModified="1556034012"/>
+          <Include href="lsd_8.xml" itemIcon="3" itemID="5cc0093e-000016cd" lastModified="1556089150"/>
+          <Include href="lsd_8 copy.xml" itemIcon="3" itemID="5cc00b7a-00001714" lastModified="1556089722"/>
+          <Include href="lsd_8 copy 2.xml" itemIcon="3" itemID="5cc00b7f-0000171f" lastModified="1556089727"/>
+          <Include href="lsd_9.xml" itemIcon="3" itemID="5cc015d1-00000120" lastModified="1556092369"/>
+          <Include href="lsd_10.xml" itemIcon="3" itemID="5cc019db-00000fe6" lastModified="1556093403"/>
+          <Include href="lsd_10 copy.xml" itemIcon="3" itemID="5cc019f0-00000fef" lastModified="1556093424"/>
+          <Include href="play_button.xml" itemIcon="0" loadImmediate="false" itemID="5cc9a004-000000a0" lastModified="1556717572"/>
+          <Include href="Symbol 1.xml" loadImmediate="false" itemID="5cbf182d-00000231" lastModified="1556027437"/>
+          <Include href="Symbol 2.xml" loadImmediate="false" itemID="5cbf18ba-00000235" lastModified="1556027578"/>
+          <Include href="Symbol 3.xml" loadImmediate="false" itemID="5cbf2009-00000444" lastModified="1556029449"/>
+          <Include href="Symbol 4.xml" loadImmediate="false" itemID="5cc01893-00000fca" lastModified="1556094477"/>
+          <Include href="Symbol 5.xml" loadImmediate="false" itemID="5cc01b35-00000ffd" lastModified="1556093749"/>
+          <Include href="Symbol 6.xml" loadImmediate="false" itemID="5cc02017-00001064" lastModified="1556095592"/>
+          <Include href="Symbol 7.xml" itemIcon="1" loadImmediate="false" itemID="5cc02127-00001080" lastModified="1556096332"/>
+          <Include href="Symbol 8.xml" loadImmediate="false" itemID="5cc0333f-000000f1" lastModified="1556099903"/>
+          <Include href="Symbol 9.xml" itemIcon="1" loadImmediate="false" itemID="5cc04639-000001fe" lastModified="1556104761"/>
+          <Include href="Symbol 10.xml" itemIcon="1" loadImmediate="false" itemID="5cc04901-0000022e" lastModified="1556105473"/>
+          <Include href="Symbol 11.xml" loadImmediate="false" itemID="5cc049f4-00000256" lastModified="1556105716"/>
+          <Include href="Symbol 12.xml" loadImmediate="false" itemID="5cc049f8-0000025a" lastModified="1556105720"/>
+          <Include href="Symbol 13.xml" loadImmediate="false" itemID="5cc049fd-0000025e" lastModified="1556105725"/>
+          <Include href="Symbol 14.xml" loadImmediate="false" itemID="5cc053ea-000002ad" lastModified="1556108266"/>
+          <Include href="Symbol 15.xml" loadImmediate="false" itemID="5cc055f2-000002b8" lastModified="1556108786"/>
+          <Include href="Symbol 16.xml" loadImmediate="false" itemID="5cc05630-000002bc" lastModified="1556108848"/>
+          <Include href="Symbol 17.xml" loadImmediate="false" itemID="5cc058d0-000002c4" lastModified="1556109520"/>
+          <Include href="Symbol 18.xml" loadImmediate="false" itemID="5cc0591f-000002c8" lastModified="1556109599"/>
+          <Include href="Symbol 19.xml" loadImmediate="false" itemID="5cc05d84-000002f8" lastModified="1556110724"/>
+          <Include href="Symbol 20.xml" loadImmediate="false" itemID="5cc1cf74-000001bc" lastModified="1556205450"/>
+          <Include href="Symbol 21.xml" loadImmediate="false" itemID="5cc1cfeb-000001cb" lastModified="1556205547"/>
+          <Include href="Symbol 22.xml" loadImmediate="false" itemID="5cc1d216-000001e9" lastModified="1556206102"/>
+          <Include href="Symbol 23.xml" loadImmediate="false" itemID="5cc1e005-00000213" lastModified="1556209669"/>
+          <Include href="Symbol 24.xml" loadImmediate="false" itemID="5cc2dace-000002ac" lastModified="1556273870"/>
+          <Include href="Symbol 25.xml" loadImmediate="false" itemID="5cc2dd6f-000002c2" lastModified="1556274543"/>
+          <Include href="Symbol 26.xml" loadImmediate="false" itemID="5cc2dfe1-000002e7" lastModified="1556275169"/>
+          <Include href="Symbol 27.xml" loadImmediate="false" itemID="5cc2dfe5-000002eb" lastModified="1556275173"/>
+          <Include href="Symbol 28.xml" loadImmediate="false" itemID="5cc2dfe9-000002ef" lastModified="1556275177"/>
+          <Include href="Symbol 29.xml" loadImmediate="false" itemID="5cc2e430-000002f8" lastModified="1556276797"/>
+          <Include href="Symbol 30.xml" itemIcon="1" loadImmediate="false" itemID="5cc301a4-00000376" lastModified="1556283812"/>
+          <Include href="Symbol 31.xml" itemIcon="1" loadImmediate="false" itemID="5cc301ab-0000037a" lastModified="1556283819"/>
+          <Include href="Symbol 32.xml" itemIcon="1" loadImmediate="false" itemID="5cc301b4-0000037e" lastModified="1556283828"/>
+          <Include href="Symbol 33.xml" loadImmediate="false" itemID="5cc3040c-00000396" lastModified="1556284428"/>
+          <Include href="Tween 1.xml" itemIcon="1" loadImmediate="false" itemID="5cbf250d-00000497" lastModified="1556030733"/>
+          <Include href="Tween 2.xml" itemIcon="1" loadImmediate="false" itemID="5cbf250d-0000049b" lastModified="1556030733"/>
+          <Include href="Tween 3.xml" itemIcon="1" loadImmediate="false" itemID="5cbf3609-000005ef" lastModified="1556035081"/>
+          <Include href="Tween 4.xml" itemIcon="1" loadImmediate="false" itemID="5cbf3609-000005f3" lastModified="1556035081"/>
+          <Include href="Tween 5.xml" itemIcon="1" loadImmediate="false" itemID="5cbf3611-000005f7" lastModified="1556035089"/>
+          <Include href="Tween 6.xml" itemIcon="1" loadImmediate="false" itemID="5cbf3a2e-0000061c" lastModified="1556036142"/>
+          <Include href="Tween 7.xml" itemIcon="1" loadImmediate="false" itemID="5cbf3a2f-00000637" lastModified="1556036143"/>
+          <Include href="Tween 8.xml" itemIcon="1" loadImmediate="false" itemID="5cbfffcb-000015c1" lastModified="1556086731"/>
+          <Include href="Tween 9.xml" itemIcon="1" loadImmediate="false" itemID="5cbfffcb-000015d4" lastModified="1556086731"/>
+          <Include href="Tween 10.xml" itemIcon="1" loadImmediate="false" itemID="5cc05e22-00000304" lastModified="1556110882"/>
+          <Include href="Tween 11.xml" itemIcon="1" loadImmediate="false" itemID="5cc05e22-0000030a" lastModified="1556110882"/>
+          <Include href="Tween 12.xml" itemIcon="1" loadImmediate="false" itemID="5cc1d1e4-000001e3" lastModified="1556206052"/>
+          <Include href="Tween 13.xml" itemIcon="1" loadImmediate="false" itemID="5cc1d242-000001f1" lastModified="1556206146"/>
+          <Include href="Tween 14.xml" itemIcon="1" loadImmediate="false" itemID="5cc2feb7-00000338" lastModified="1556283063"/>
+          <Include href="Tween 15.xml" itemIcon="1" loadImmediate="false" itemID="5cc2fee9-00000340" lastModified="1556283113"/>
+          <Include href="Tween 16.xml" itemIcon="1" loadImmediate="false" itemID="5cc2fee9-00000345" lastModified="1556283113"/>
+          <Include href="עשן מהפה.xml" itemIcon="1" loadImmediate="false" itemID="5cc037cb-00000135" lastModified="1556101994"/>
+          <Include href="פה&amp;#032.xml" itemIcon="1" loadImmediate="false" itemID="5cc303f8-00000394" lastModified="1556287297"/>
+          <Include href="רקע/ספסל.xml" itemIcon="1" loadImmediate="false" itemID="5cb455e4-00000023" lastModified="1555952424"/>
+          <Include href="רקע/ענן 1.xml" itemIcon="1" loadImmediate="false" itemID="5cb4527a-00000005" lastModified="1556027586"/>
+          <Include href="רקע/ענן 2.xml" itemIcon="1" loadImmediate="false" itemID="5cb452ba-0000000a" lastModified="1556196878"/>
+          <Include href="רקע/רקע1.xml" itemIcon="1" loadImmediate="false" itemID="5cb45334-0000000e" lastModified="1556279850"/>
+          <Include href="רקע/שביל.xml" itemIcon="1" loadImmediate="false" itemID="5cbf2b55-000004f5" lastModified="1556032391"/>
+          <Include href="שקית.xml" itemIcon="1" loadImmediate="false" itemID="5cc2df61-000002df" lastModified="1556275346"/>
+          <Include href="שקית זבל נפתחת.xml" itemIcon="1" loadImmediate="false" itemID="5cc2de4d-000002d2" lastModified="1556281810"/>
+          <Include href="תפוח.xml" itemIcon="1" loadImmediate="false" itemID="5cc2ff82-00000352" lastModified="1556283266"/>
+          <Include href="איש_מעשן/נעל קרובה.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0c7a-00000066" lastModified="1556028148"/>
+          <Include href="איש_מעשן/נעל רחוקה.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0c36-0000005d" lastModified="1556028148"/>
+          <Include href="איש_מעשן/סיגריה.xml" itemIcon="1" loadImmediate="false" itemID="5cc01e0a-00001030" lastModified="1557317410"/>
+          <Include href="איש_מעשן/סיגריה קטנה.xml" itemIcon="1" loadImmediate="false" itemID="5cc03ec1-000001a6" lastModified="1556104176"/>
+          <Include href="איש_מעשן/עשן.xml" itemIcon="1" loadImmediate="false" itemID="5cc0138a-000000f9" lastModified="1556094535"/>
+          <Include href="איש_מעשן/צוואר.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0cf5-0000007d" lastModified="1556028148"/>
+          <Include href="איש_מעשן/ראש.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0ca1-0000006e" lastModified="1556100675"/>
+          <Include href="איש_מעשן/רגל קרובה.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0c88-0000006a" lastModified="1556028140"/>
+          <Include href="איש_מעשן/רגל רחוקה.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0beb-0000004f" lastModified="1556028140"/>
+          <Include href="איש_מעשן/שרוול.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0d4c-0000008d" lastModified="1556197443"/>
+          <Include href="איש_מעשן/אצבע.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0d24-00000081" lastModified="1556099404"/>
+          <Include href="איש_מעשן/איש.xml" itemIcon="1" loadImmediate="false" itemID="5cc1ae5e-00000083" lastModified="1556287372"/>
+          <Include href="איש_מעשן/אייפון.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0d53-00000091" lastModified="1556028140"/>
+          <Include href="איש_מעשן/גוף.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0d33-00000085" lastModified="1556037770"/>
+          <Include href="איש_מעשן/יד של סיגריה.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0cd2-00000076" lastModified="1556103046"/>
+          <Include href="איש_מעשן/יד של פלאפון.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0d45-00000089" lastModified="1556028006"/>
+          <Include href="אישה עם שקית/צוואר.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0b2e-0000003d" lastModified="1556032761"/>
+          <Include href="אישה עם שקית/ראש.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0b50-0000004a" lastModified="1556032761"/>
+          <Include href="אישה עם שקית/רגל שמאל אישה.xml" itemIcon="1" loadImmediate="false" itemID="5cbf2d8f-00000551" lastModified="1556035937"/>
+          <Include href="אישה עם שקית/רגל ימין אישה.xml" itemIcon="1" loadImmediate="false" itemID="5cbf2d2c-0000053d" lastModified="1556035873"/>
+          <Include href="אישה עם שקית/רגליים.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0ac6-00000023" lastModified="1556200516"/>
+          <Include href="אישה עם שקית/שקית.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0a9a-0000001a" lastModified="1556032761"/>
+          <Include href="אישה עם שקית/שקית זבל.xml" itemIcon="1" loadImmediate="false" itemID="5cc2da5f-000002a8" lastModified="1556273761"/>
+          <Include href="אישה עם שקית/שקית זבל נשפכת.xml" itemIcon="1" loadImmediate="false" itemID="5cc2dd43-000002c0" lastModified="1556274638"/>
+          <Include href="אישה עם שקית/שקית זבל זזה.xml" itemIcon="1" loadImmediate="false" itemID="5cc2da8f-000002aa" lastModified="1556274165"/>
+          <Include href="אישה עם שקית/שיער.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0b3a-00000042" lastModified="1556032761"/>
+          <Include href="אישה עם שקית/אישה_עם_שקית.xml" itemIcon="1" loadImmediate="false" itemID="5cbf2c60-00000503" lastModified="1556274344"/>
+          <Include href="אישה עם שקית/אישה _ זורקת _ זבל.xml" itemIcon="1" loadImmediate="false" itemID="5cc1c592-0000013a" lastModified="1556284166"/>
+          <Include href="אישה עם שקית/אישה עומדת.xml" itemIcon="1" loadImmediate="false" itemID="5cc0023d-00001620" lastModified="1556274435"/>
+          <Include href="אישה עם שקית/אישה פרופיל.xml" itemIcon="1" loadImmediate="false" itemID="5cc1c0c5-00000124" lastModified="1556279985"/>
+          <Include href="אישה עם שקית/אישה זורקת זבל.xml" itemIcon="1" loadImmediate="false" itemID="5cc1c570-00000130" lastModified="1556274570"/>
+          <Include href="אישה עם שקית/אישה מורידה מקפיים.xml" itemIcon="1" loadImmediate="false" itemID="5cc00237-0000161f" lastModified="1556274324"/>
+          <Include href="אישה עם שקית/גוף.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0af7-0000002c" lastModified="1556032761"/>
+          <Include href="אישה עם שקית/יד עם שקית.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0a89-00000016" lastModified="1556086637"/>
+          <Include href="אישה עם שקית/יד אחורית.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0a62-00000010" lastModified="1556107543"/>
+          <Include href="אישה עם שקית/יד מורידה משקפיים.xml" itemIcon="1" loadImmediate="false" itemID="5cbffcbc-0000157c" lastModified="1556107816"/>
+          <Include href="אישה עם שקית/כתף קדמית.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0b12-00000035" lastModified="1556032761"/>
+          <Include href="אישה עם שקית/כתף אחורית.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0b09-00000031" lastModified="1556032761"/>
+          <Include href="אישה עם שקית/משקפיים.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0b47-00000046" lastModified="1556032761"/>
+          <Include href="אישה עם שקית/מכנסיים.xml" itemIcon="1" loadImmediate="false" itemID="5cbf0ab9-00000021" lastModified="1556203118"/>
+          <Include href="אישה עם שקית/מכנסיים אישה לא זז.xml" itemIcon="1" loadImmediate="false" itemID="5cbffc15-00001555" lastModified="1556274275"/>
+          <Include href="אישה עם שקית/מכנסיים אישה לא זז פרופיל.xml" itemIcon="1" loadImmediate="false" itemID="5cc1c60c-00000154" lastModified="1556203067"/>
+          <Include href="בננה.xml" itemIcon="1" loadImmediate="false" itemID="5cc2ff8b-00000356" lastModified="1556283275"/>
+          <Include href="גבה.xml" itemIcon="1" loadImmediate="false" itemID="5cc05d08-000002eb" lastModified="1556110724"/>
+          <Include href="זרוע&amp;#032.xml" itemIcon="1" loadImmediate="false" itemID="5cc01c44-0000100e" lastModified="1557317723"/>
+          <Include href="זריקת סיגריה.xml" itemIcon="1" loadImmediate="false" itemID="5cc03e89-0000019d" lastModified="1556197076"/>
+          <Include href="זבל.xml" itemIcon="1" loadImmediate="false" itemID="5cc2fbfd-0000030e" lastModified="1556283839"/>
+          <Include href="יד נסגרת.xml" itemIcon="1" loadImmediate="false" itemID="5cc009ad-000016d5" lastModified="1556089679"/>
+          <Include href="יד קרובה זורקת&amp;#032.xml" itemIcon="1" loadImmediate="false" itemID="5cc1c6ef-00000186" lastModified="1556203874"/>
+          <Include href="יד קרובה זורקת זלב.xml" itemIcon="1" loadImmediate="false" itemID="5cc1d063-000001cf" lastModified="1556280130"/>
+          <Include href="יד רחוקה זורקת.xml" itemIcon="1" loadImmediate="false" itemID="5cc1c746-00000194" lastModified="1556203334"/>
+          <Include href="יד ישרה.xml" itemIcon="1" loadImmediate="false" itemID="5cc1af35-000000b0" lastModified="1556197413"/>
+          <Include href="יד משקפיים2.xml" itemIcon="1" loadImmediate="false" itemID="5cc052fc-00000294" lastModified="1556276792"/>
+          <Include href="כק'-כק-.xml" itemIcon="1" loadImmediate="false" itemID="5cc2ff9f-00000362" lastModified="1556283295"/>
+          <Include href="כק'-ככ'-.xml" itemIcon="1" loadImmediate="false" itemID="5cc2ff9a-0000035e" lastModified="1556283290"/>
+          <Include href="כקכ'.xml" itemIcon="1" loadImmediate="false" itemID="5cc2ff92-0000035a" lastModified="1556283282"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="action" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="884" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var self = this;
+self.stop();
+
+self.play_button.addEventListener("click",playFunc);
+
+function playFunc ()  {
+	self.gotoAndPlay(1)
+}]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="button" color="#00FFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="play_button" name="play_button" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="340.85" ty="150"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="171.2" y="171.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText fontRenderingMode="standard" width="177.95" height="89.35" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="445.95" ty="263.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>play</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="89.35" size="80" bitmapSize="1600" face="_sans"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="883" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="אישה_עם_שקית" color="#009999" locked="true" autoNamed="false" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="379" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="380" duration="44" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="44000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.656496" xformPtYOffsetPct="0.509358" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="41000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="42000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,52.5" next="0,52.5" previous="0,52.5" roving="0" timevalue="41000"/><Keyframe anchor="0,52.5" next="0,52.5" previous="0,52.5" roving="0" timevalue="42000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="41000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,39.0244" next="0,39.0244" previous="0,39.0244" roving="0" timevalue="0"/><Keyframe anchor="0,80.3268" next="0,80.3268" previous="0,80.3268" roving="0" timevalue="41000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,39.0244" next="0,39.0244" previous="0,39.0244" roving="0" timevalue="0"/><Keyframe anchor="0,80.3268" next="0,80.3268" previous="0,80.3268" roving="0" timevalue="41000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="אישה עם שקית/אישה_עם_שקית" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.390243530273438" d="0.390243530273438" tx="594.1" ty="384.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="26.4" y="-128.75"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="424" duration="11" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="אישה עם שקית/אישה עומדת" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.8046875" d="0.8046875" tx="421.2" ty="381.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="213.35" y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="435" duration="82" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="517" duration="81" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="אישה עם שקית/אישה מורידה מקפיים" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="387.95" ty="313.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="251.25" y="28.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="598" duration="23" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="621" duration="46" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="46000"><TimeMap strength="0" type="Quadratic"/><TimeMap strength="3" type="DampedWave"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.770256" xformPtYOffsetPct="0.157805" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-109.527" next="0,-109.527" previous="0,-109.527" roving="0" timevalue="4000"/><Keyframe anchor="0,-346.8" next="0,-346.8" previous="0,-346.8" roving="0" timevalue="45000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="45000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,70.4712" next="0,70.4712" previous="0,70.4712" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,75.4227" next="0,75.4227" previous="0,75.4227" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="אישה עם שקית/אישה פרופיל" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.7047119140625" d="0.754226684570313" tx="772.25" ty="144"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="504.65" y="3.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="667" duration="217" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="אישה עם שקית/אישה זורקת זבל" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.74603271484375" d="0.74603271484375" tx="476.45" ty="346.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="341.05" y="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="רקע_אישה" color="#FF4FFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="379" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="380" duration="55" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFFFF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                                                            <fill>
+                                                                 <SolidColor color="#373535"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!6837 5959S6|10276 5959!10276 5959|10276 6647!10276 6647|6837 6647!6837 6647|6837 5959"/>
+                                                  <Edge cubics="!6837 6647(;6837,6647 6837,5959 6837,5959q6837 6647 6837 5959);"/>
+                                                  <Edge cubics="!10276 5959(;10276,5959 10276,6647 10276,6647q10276 5959 10276 6647);"/>
+                                                  <Edge cubics="!6837 5959(;6837,5959 10276,5959 10276,5959q6837 5959 10276 5959);"/>
+                                                  <Edge cubics="!10276 6647(;10276,6647 6837,6647 6837,6647q10276 6647 6837 6647);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="רקע/רקע1" symbolType="graphic" firstFrame="47" centerPoint3DX="962.7" centerPoint3DY="307.6" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="-24.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="648.45" y="332.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="רקע/ענן 2" symbolType="graphic" firstFrame="47" centerPoint3DX="519.1" centerPoint3DY="46.9" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="9.4" ty="14.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="509.7" y="32.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="רקע/ענן 1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-227" ty="53.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="580.35" y="43.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="רקע/שביל" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix d="0.613876342773438" tx="283" ty="583.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="361.2" y="-71.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="435" duration="82" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="517" duration="81" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFFFF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                                                            <fill>
+                                                                 <SolidColor color="#373535"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!6837 5959|10276 5959!10276 5959|10276 6647!10276 6647|6837 6647!6837 6647|6837 5959"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="רקע/רקע1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="-24.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="648.45" y="332.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="רקע/ענן 2" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="9.4" ty="14.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="509.7" y="32.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="רקע/שביל" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix d="0.613876342773438" tx="280.9" ty="583.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="361.2" y="-71.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="598" duration="286" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="עשן" color="#00FFFF" locked="true" autoNamed="false" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="110" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="111" duration="74" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="עשן מהפה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="294.9" ty="174.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150.75" y="35.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="185" duration="116" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="301" duration="74" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="עשן מהפה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="294.9" ty="174.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150.75" y="35.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="375" duration="53" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="428" duration="50" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="478" duration="33" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="33000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="1.00433" xformPtYOffsetPct="0.836601" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="10655,202.1" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,248.05" next="0,248.05" previous="-10654,284.8" roving="0" timevalue="32000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="10655,-91.85" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,310.05" next="0,310.05" previous="-10654,11.5" roving="0" timevalue="32000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,2587.5" next="0,2587.5" previous="0,2587.5" roving="0" timevalue="32000"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,217.055" next="0,217.055" previous="0,217.055" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,157.631" next="0,157.631" previous="0,157.631" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/סיגריה קטנה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="2.17054748535156" d="1.57630920410156" tx="422.35" ty="307.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.35" y="0.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="511" duration="10" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/סיגריה קטנה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.78947448730469" d="1.78947448730469" tx="681.9" ty="615.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-5.45" y="-2.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="521" duration="81" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="602" duration="148" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="750" duration="129" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="פה&amp;#032" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="109.3" ty="244.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="איש_מעשן" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="434" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/רגל רחוקה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.50151062011719" b="-0.8668212890625" c="0.81256103515625" d="1.40751647949219" tx="193.65" ty="456.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="64.7" y="36.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/רגל קרובה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.90322875976563" d="1.90322875976563" tx="189.45" ty="428.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="43.2" y="43.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/צוואר" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.870361328125" d="1.36276245117188" tx="209.1" ty="269"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-11.5" y="22.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/שרוול" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.84062194824219" b="-0.4931640625" c="0.43426513671875" d="1.62083435058594" tx="234.4" ty="298.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="18.65" y="18.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/ראש" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.63665771484375" d="1.65521240234375" tx="172.6" ty="173.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="45.5" y="32.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="זרוע&amp;#032" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.4017333984375" b="0.03717041015625" c="-0.0435638427734375" d="1.64390563964844" tx="297.25" ty="335"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="41.8" y="-10"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/גוף" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.82005310058594" d="1.82005310058594" tx="177.65" ty="288"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.3" y="54.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/נעל רחוקה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.76170349121094" b="-0.472015380859375" c="0.472015380859375" d="1.76170349121094" tx="396.5" ty="435"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="24.8" y="16.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/נעל קרובה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.91960144042969" d="1.91960144042969" tx="286.95" ty="546.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="25.55" y="12.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/אייפון" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.79022216796875" d="1.79022216796875" tx="285.95" ty="337.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="12.75" y="17"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/יד של פלאפון" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.85409545898438" d="1.85409545898438" tx="163.5" ty="342.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="46.45" y="25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/שרוול" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="2.14326477050781" d="2.14326477050781" tx="153.2" ty="318.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="18.5" y="18.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="434" duration="82" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/רגל רחוקה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.50151062011719" b="-0.8668212890625" c="0.81256103515625" d="1.40751647949219" tx="193.65" ty="456.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="64.7" y="36.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/צוואר" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.870361328125" d="1.36276245117188" tx="209.1" ty="269"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-11.5" y="22.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/רגל קרובה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.90322875976563" d="1.90322875976563" tx="189.45" ty="428.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="43.2" y="43.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="זריקת סיגריה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.59797668457031" d="1.59797668457031" tx="333.5" ty="323.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.2" y="11.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/שרוול" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.68768310546875" d="1.58201599121094" tx="244.85" ty="288"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="18.5" y="19"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/גוף" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.82005310058594" d="1.82005310058594" tx="177.65" ty="288"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.3" y="54.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/ראש" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.63665771484375" d="1.65521240234375" tx="169.05" ty="184.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="45.5" y="32.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/נעל רחוקה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.76170349121094" b="-0.472015380859375" c="0.472015380859375" d="1.76170349121094" tx="396.5" ty="435"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="24.8" y="16.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/נעל קרובה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.91960144042969" d="1.91960144042969" tx="286.95" ty="546.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="25.55" y="12.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/אייפון" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.79022216796875" d="1.79022216796875" tx="285.95" ty="337.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="12.75" y="17"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/יד של פלאפון" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.85409545898438" d="1.85409545898438" tx="163.5" ty="342.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="46.45" y="25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/שרוול" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="2.14326477050781" d="2.14326477050781" tx="153.2" ty="318.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="18.5" y="18.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="516" duration="81" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="597" duration="286" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/איש" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.976470947265625" d="0.976470947265625" tx="218.65" ty="369.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="איש_מעשן/סיגריה קטנה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="2.03947448730469" d="2.03947448730469" tx="636.75" ty="610.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-5.45" y="-2.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="רקע_איש" color="#9933CC" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="434" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="רקע/רקע1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-11.2" ty="-18.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="491.9" y="332.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="רקע/ספסל" symbolType="graphic" animationSymbolMode="0" animationFrameOffset="0" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="123.4" ty="370.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="203.3" y="101.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFF66"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                                                            <fill>
+                                                                 <SolidColor color="#373535"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!-249 12008|19574 12008!19574 12008|19574 13071!19574 13071|-249 13071!-249 13071|-249 12008"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="434" duration="82" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="רקע/רקע1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-11.2" ty="-18.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="491.9" y="332.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="רקע/ספסל" symbolType="graphic" animationSymbolMode="0" animationFrameOffset="0" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="123.4" ty="370.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="203.3" y="101.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFF66"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                                                            <fill>
+                                                                 <SolidColor color="#373535"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!-249 12008|19574 12008!19574 12008|19574 13071!19574 13071|-249 13071!-249 13071|-249 12008"/>
+                                                  <Edge cubics="!19574 12008(;19574,12008 19574,13071 19574,13071q19574 12008 19574 13071);"/>
+                                                  <Edge cubics="!-249 13071(;-249,13071 -249,12008 -249,12008q-249 13071 -249 12008);"/>
+                                                  <Edge cubics="!19574 13071(;19574,13071 -249,13071 -249,13071q19574 13071 -249 13071);"/>
+                                                  <Edge cubics="!-249 12008(;-249,12008 19574,12008 19574,12008q-249 12008 19574 12008);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="516" duration="81" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="597" duration="71" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="רקע/רקע1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-13.8" ty="-18.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="843.8" y="332.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="יד ישרה" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.814407348632813" b="0.0817718505859375" c="-0.0817718505859375" d="0.814407348632813" tx="147.2" ty="252.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="120.1" y="31.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="רקע/ספסל" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="10.8" ty="336.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="203.3" y="101.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-6" ty="-7.55"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFF66"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                                                            <fill>
+                                                                 <SolidColor color="#373535"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!-249 12008|19574 12008!19574 12008|19574 13071!19574 13071|-249 13071!-249 13071|-249 12008"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="668" duration="215" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="רקע/רקע1" symbolType="graphic" firstFrame="71" centerPoint3DX="829.75" centerPoint3DY="313.6" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-13.8" ty="-18.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="843.8" y="332.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="יד ישרה" symbolType="graphic" centerPoint3DX="232.3" centerPoint3DY="329.45" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.814407348632813" b="0.0817718505859375" c="-0.0817718505859375" d="0.814407348632813" tx="147.2" ty="252.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="120.1" y="31.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="רקע/ספסל" symbolType="graphic" centerPoint3DX="214.1" centerPoint3DY="438.1" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="10.8" ty="336.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="203.3" y="101.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-6" ty="-7.55"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFF66"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                                                            <fill>
+                                                                 <SolidColor color="#373535"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!-249 12008|19574 12008!19574 12008|19574 13071!19574 13071|-249 13071!-249 13071|-249 12008"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="סאונד_עשן" color="#00FFFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="51" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="52" duration="186" keyMode="9728" soundName="רקע/שאיפת עשן.mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="238" duration="92" keyMode="9728" soundName="רקע/שאיפת עשן.mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="330" duration="339" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="669" duration="14" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="683" duration="127" keyMode="9728" soundName="large_trash_bag-mike-koenig (mp3cut.net).wav">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="810" duration="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="סאונד_רקע" color="#9933CC" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="434" keyMode="9728" soundName="איש_מעשן/26 באפר׳, 17.22.mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="435" duration="82" keyMode="9728" soundName="איש_מעשן/26 באפר׳, 17.22.mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="517" duration="81" keyMode="9728" soundName="איש_מעשן/26 באפר׳, 17.22.mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="598" duration="202" keyMode="9728" soundName="איש_מעשן/26 באפר׳, 17.22.mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="800" duration="84" keyMode="9728" soundName="26 באפר׳, 17.22(2).mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <swatchLists>
+          <swatchList>
+               <swatchListInfo name="Default Swatches"/>
+
+               <swatches>
+                    <swatchListInfo name="Default Swatches"/>
+
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem color="#482300" hue="19" saturation="239" brightness="34"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <persistentData>
+          <PD n="ikBoneCount" t="i" v="26"/>
+          <PD n="ikTreeCount" t="i" v="70"/>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+          <PD n="ikNodeCount" t="i" v="97"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="666164" publishTime="1556526274"/>
+     </publishHistory>
+</DOMDocument>
